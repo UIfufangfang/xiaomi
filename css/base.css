@@ -1,0 +1,14 @@
+*{
+	margin: 0;/* body=8px h1-h5 */
+	padding: 0;
+	font-weight: normal;/* h1-h5 */
+	text-decoration: none;/* a */
+	/* 默认数字是0，单词是none */
+}
+/* *通用选择器，可以清除所有的margin值 */
+img{
+	width: 100%;
+	height: 100%;
+	border: 0;/* IE6浏览器问题 */
+}
+/* 图片大小与盒子一样大小 */

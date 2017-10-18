@@ -4,6 +4,8 @@
 	font-weight: normal;/* h1-h5 */
 	text-decoration: none;/* a */
 	/* 默认数字是0，单词是none */
+	list-style-type: none;
+	font-style: normal；
 }
 /* *通用选择器，可以清除所有的margin值 */
 img{
